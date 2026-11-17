@@ -1,0 +1,6 @@
+As a user, I would like to be able to launch a rocket and gain money for how high I got.
+As a developer, I would like to be able to implement new rocket pieces easily and effectively, allowing for better updates in the future.
+As a user, I would like to be able to visit the shop to upgrade my rocket using the currency I got.
+As a user, I would like to be able to have multiple save files with different progression, and a different name attached to each save.
+As a user, I want to be able to reach the moon and win the game. 
+As a user, I want to have multiple difficulties, making the moon further and further with each increase in difficulty.
